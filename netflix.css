@@ -1,0 +1,54 @@
+
+  body{
+    background-color: rgb(14, 10, 10);
+   color:azure;
+   margin:0;
+   text-align: center;
+}
+ .block1{
+     background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/a795ee10-8c6d-467c-8159-254be2b69013/2ee35a42-0a46-42d4-a7d7-96dfad9617ae/ES-en-20220912-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+     display: center;
+     height: 500px;
+     opacity: 0.4;  
+    }
+
+.footer{
+    text-align: left;
+}
+.block2{
+    text-align: left;
+    background-image: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.block3{
+    background-image: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    text-align: right;
+    height: 500px;;
+}
+.block4{
+    background-image: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/device-pile.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    text-align: left;
+    height: 500px;
+}
+.block5{
+    background-image: url(https://occ-0-3380-358.1.nflxso.net/dnm/api/v6/19OhWN2dO19C9txTON9tvTFtefw/AAAABfpnX3dbgjZ-Je8Ax3xn0kXehZm_5L6-xe6YSTq_ucht9TI5jwDMqusWZKNYT8DfGudD0_wWVVTFLiN2_kaQJumz2iivUWbIbAtF.png?r=11f);
+    background-position: left;
+    background-repeat: no-repeat;
+    text-align: right;
+    height: 500px;
+}
+.footer2{
+    text-align: left;
+}
+ .select{
+    margin: 50px 5% 0 5%;
+ }
+ .option{
+    height:20px;
+ }
